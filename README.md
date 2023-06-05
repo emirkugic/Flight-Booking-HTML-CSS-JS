@@ -1,2 +1,2 @@
 # Flight booking website 
-## Front end for course Human - Cumputer Interaction 
+## Front end code for course Human - Cumputer Interaction 
